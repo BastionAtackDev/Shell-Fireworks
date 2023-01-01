@@ -2,6 +2,7 @@
 
 RED='\033[0;31m'
 YELLOW='\033[1;33m'
+DELAY=0.1
 clear
 echo "";
 echo "";
@@ -17,7 +18,7 @@ echo "";
 echo "";
 echo "";
 echo  -e "${RED}            /";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -33,7 +34,7 @@ echo "";
 echo "";
 echo "            \\";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -49,7 +50,7 @@ echo "";
 echo "            /";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -65,7 +66,7 @@ echo "            \\";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -81,7 +82,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -97,7 +98,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -113,7 +114,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -129,7 +130,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -145,7 +146,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -161,7 +162,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -177,7 +178,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -193,7 +194,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -209,7 +210,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -225,7 +226,7 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
 echo "";
 echo "";
@@ -241,5 +242,5 @@ echo "            ";
 echo "            ";
 echo "            ";
 echo "            ";
-# sleep 1
+sleep $DELAY
 clear
