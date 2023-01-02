@@ -1,8 +1,8 @@
-#!/usr/bin/bash
+!/usr/bin/bash
 
 RED='\033[0;31m'
 YELLOW='\033[1;33m'
-DELAY=0.1
+DELAY=0.01
 clear
 echo "";
 echo "";
