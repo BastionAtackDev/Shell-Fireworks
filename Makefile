@@ -1,3 +1,3 @@
 default:
-	gcc -O4 main.c -o fireworks
+	gcc -O4 -lncurses main.c -o fireworks
 	./fireworks
