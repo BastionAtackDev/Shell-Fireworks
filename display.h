@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-#define DELAY 100
+#define DELAY 80
 #define DELAY_BOOM 200
 
 void delay(int number_of_seconds)
